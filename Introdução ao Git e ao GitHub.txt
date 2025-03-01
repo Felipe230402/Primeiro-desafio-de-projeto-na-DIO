@@ -1,0 +1,47 @@
+-> Git 
+	O Git um sistema de controle de versão distribuído, que permite os
+desenvolvedores acompanharem o histórico das alterações no código, colaborarem
+em equipes e mantenham versões diferentes de um projeto 
+-> Git Bash
+	O Git Bash é um terminal de linha de comando que fornece uma interface 
+para interagir com o Git.
+
+-> GitHub 
+	O GitHub é uma plataforma de hospedagem de código-fonte baseada em Git,
+que permite aos desenvolvedores armazenar, gerenciar e colaborar em projetos de
+software.
+
+-> SHA1 "Secure Hash Algorithm"
+	É um conjunto de funções hash criptográficas projetadas pela NSA.
+	* A encriptação gera um conjunto de caracteres identificadores de 40 
+	dígitos;
+	* É uma forma curta de representar um arquivo.
+
+-> Objetos Fundamentais 
+	Blobs: representam o conteúdo de um arquivo armazenado no repositório. 
+	Ele não contém informações sobre o nome do arquivo, apenas os dados brutos. 
+	Cada vez que um arquivo é alterado e commitado, um novo Blob é criado, 
+	mesmo que a mudança seja mínima.
+	Trees: as trees funcionam como uma uma estrutura de diretório que organiza 
+	os Blobs e outras trees. Cada tree pode conter referências para múltiplos 
+	Blobs (arquivos) e outras trees (subdiretórios).
+	Commits: é um  instantâneo momento. Ele contém um ponteiro para uma tree, 
+	um hash único, metadados como autor, data e referência ao conteúdo anterior.
+
+-> Chaves SSH e Token
+	* São métodos de autenticação usados para acessar repositórios remotos sem 	
+	precisar de senha.
+
+	-> Chave SSH: é uma forma de estabelecer uma conexão segura e encriptada 
+	entre duas máquinas.
+	Vantagens:
+	- Mais segura;
+	- Não precisa digitar credenciais a cada push/pull.
+	- Ideal para acesso frequente ou repositórios.
+	
+	-> Token de acesso pessoal: é uma senha gerada automaticamente por serviços
+	como GitHub e GitLab para substituir sua senha ao autentificar via HTTPS.
+	- Funciona sem precisar configurar chaves SSH;
+	- Pode ser limitado a ações específicas (como leitor ou escuta);
+	- Pode ser revogado ou renovado facilmente.
+	

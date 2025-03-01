@@ -1,0 +1,142 @@
+Sistemas Desktop: 
+	- Podem ser instalados no computador;
+	- A instalação é realizada por um arquivo executável;
+	- Exemplos: Jogos, Anti-vírus, Microsoft Office.
+
+Sistemas Web: 
+	- Baseados em tecnologia Web;
+	- Remotos;
+	- Não precisa da instalação e atualização local.
+
+Sistemas Móveis:
+	- Smartphones e/ou tablets;
+	- Baixados de lojas online (Play Store, App Store);
+	- Direto para o dispositivo portátil.
+
+UI/UX Designer: 
+	* UI Designer (User interface):
+		O designer da interface do usuário é o profissional
+	responsável em criar o que o usuário irá ver e utilizar, o 	
+	produto.
+		Este profissional entende padrões visuais que podem 
+	ajudar o usuário na experiência de utilização do software.
+	# Profissional focado em cores, tipografia, microinterações
+	e estilos 
+	# Funções do UI Designer:
+	-> Design;
+	-> Tipografia;
+	-> Cores;
+	-> Layout.
+
+	* UX Designer (User Experience):
+		O design da experiência do usuário é o processo que 
+	visa melhorar a satisfação do usuário com um produto ou 
+	serviço, melhorando a usabilidade, a acessibilidade e até 
+	mesmo a satisfação proporcionada na interação.
+	# Funções do UX Designer: 
+	-> Pesquisa;
+	-> Protótipos;
+	-> Personas;
+	-> Objetivos.
+
+-> Modelo Cliente-Servidor: 
+		É uma estrutura de aplicação que distribui as tarefas e 
+	cargas de trabalho entre os fornecedores de um recurso ou servi-
+	ço, designados como servidores, e os requerentes dos serviços, 
+	designados como clientes.  
+
+-> Front-End: 
+		Dev Front End: é o desenvolvedor que programa a parte 
+	visual de um site ou aplicativo, ou seja, aquilo que conseguimos 
+	interagir. Quem trabalha com Front-End é responsável por  desen-
+	volver por meio de código uma interface gráfica, normalmente com
+	as tecnologias base da Web (HTML, JavaScript, CS).
+
+-> O que é uma IDE?
+		IDE é um ambiente de desenvolvimento integrado é um software
+	para criar aplicações que combina ferramentas comuns de desenvolvi-
+	mento em uma única interface gráfica do usuário (GUI).
+
+-> Frameworks: De forma básica, frameworks são facilitadores.
+		Ele traz diversas soluções já pré-definidas, que descomplicam
+	o trabalho dos profissionais no desenvolvimento de aplicativos e ou-
+	tros projetos digitais.
+		Afinal, a atuação de um programador pode ter muito de criati-
+	vidade, mas também traz aspectos mecânicos, da repetição de tarefas,
+	que seriam maçantes sem a possibilidade de automatização.
+	Exemplos: Angular, Laravel, Vue.
+
+-> Back-End:
+		Como próprio nome já diz, vem da ideia do que acontece por 
+	trás de uma aplicação. 
+		O Back-End trabalha em boa parte dos casos fazendo a ponte 
+	entre os dados e vice-versa, sempre aplicando as devidas regras de 	
+	negócio, validações e garantir em um ambiente onde o usuário final
+	não tenha acesso e possa manipular algo.
+		Exemplos: JAVA, C#, PHP.
+
+-> O que é uma API (Application Programming Interface)?
+		É um intermediário de software que permite que dois aplicati-
+	vos conversem entre si. 
+
+-> Dev Full Stack:
+		É alguém que trabalha tanto com Back-End quanto com Front-End.
+	Devs Full Stack precisam ter algumas habilidades em uma ampla variedade
+	de linguagens de programação.
+		# Basicamente é uma pessoa que tem habilidades para desenvolver
+	uma aplicação/sistema de ponta a ponta. 
+
+-> QA (Quality Assurance): 
+		QA pode ser definido como um conjunto de ações que as empresas 
+	realizam com o objetivo de entregar aos consumidores um produto ou ser-
+	viço com alto nível de qualidade. No desenvolvimento de software, apli-
+	car os métodos de QA germa confiança aos clientes, indicando que os seus
+	produtos terão a qualidade esperada na etapa de implantação. 
+		O profissional de QA deve ter conhecimentos sobre as atividades 
+	do projeto, além de ter um perfil analítico. Ele verifica se os padrões
+	de qualidade estão sendo atendidos e se todos os requisitos mínimos es-
+	perados no produto serão entregados. 
+
+-> Atividades e profissionais em nuvem:  
+	1. Segurança da tecnologia da informação (lógica e física);
+	2. Mão-de-obra especificadas (software e hardware);
+	3. Infraestrutura local.
+
+-> Nuvem pública: 
+		Os sistemas em nuvem são sistemas de armazenamento de dados dis-
+	ponibilizados via internet, em vez de servidores físicos tradicionais. 
+	Hoje, muitas organizações estão migrando o armazenamento de dados de ser-
+	vidores físicos para sistemas baseados em nuvem, por questão de custos. 
+
+	# Vantagens de migrar para nuvem pública:
+		1. Preço;
+		2. Facilidade de contratação, configuração e infraestrutura;
+		3. Escalabilidade;
+		4. Performance.
+
+-> Profissional de Cloud computing:
+		O profissional de computação em nuvem é responsável pela infra-
+	estrutura de nuvem oferecida aos clientes. Mais do que desenhar sistemas
+	ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais
+	operadores são mais interessantes, como as peças vão ser integradas e, 
+	no fim, cuida do que foi construído. 
+
+===============================================================================
+
+Desenvolvimento Mobile: Android
+	-> Java e/ou Kotlin;
+	-> Android Studio.
+Desenvolvimento Mobile: IOS
+	-> Swift;
+	-> Xcode.
+Desenvolvimentos Híbrido (Web)
+	-> Ionic, Flutter, React Native.
+
+
+
+
+	
+	
+
+
+	
